@@ -1,0 +1,2 @@
+File created called write-append.txt
+Appending the new content to write-append.txt
